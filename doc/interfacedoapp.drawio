@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T12:41:51.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VuoV1L52Ej29snw8Eml0" version="24.6.3" type="device">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="l_zszc8HatbYSyrAE0Dn">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,7 +266,7 @@
           <mxGeometry x="74.38" y="1790" width="182.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jxY70ayWJjnaJX3V_QoL-41" value="Tamanho Escolhido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="466.24" y="1790" width="182.5" height="30" as="geometry" />
+          <mxGeometry x="466.24" y="1790" width="203.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jxY70ayWJjnaJX3V_QoL-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/736x/e4/7c/d9/e47cd9bd39bd21a233b2aabe55b942eb.jpg;" parent="1" vertex="1">
           <mxGeometry x="408.63" y="1612.13" width="331.37" height="185.49" as="geometry" />
